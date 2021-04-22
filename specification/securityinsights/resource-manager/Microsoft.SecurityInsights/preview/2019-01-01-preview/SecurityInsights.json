@@ -11592,7 +11592,8 @@
               "Host",
               "Ip",
               "Url",
-              "FileHash"
+              "FileHash",
+              "Process"
             ],
             "type": "string",
             "x-ms-enum": {
